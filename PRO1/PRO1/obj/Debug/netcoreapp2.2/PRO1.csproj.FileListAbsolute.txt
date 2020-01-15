@@ -1,0 +1,14 @@
+C:\Users\s17090\Desktop\PRO1\PRO1\bin\Debug\netcoreapp2.2\PRO1.deps.json
+C:\Users\s17090\Desktop\PRO1\PRO1\bin\Debug\netcoreapp2.2\PRO1.runtimeconfig.json
+C:\Users\s17090\Desktop\PRO1\PRO1\bin\Debug\netcoreapp2.2\PRO1.runtimeconfig.dev.json
+C:\Users\s17090\Desktop\PRO1\PRO1\bin\Debug\netcoreapp2.2\PRO1.dll
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.csprojAssemblyReference.cache
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.csproj.CoreCompileInputs.cache
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.RazorAssemblyInfo.cache
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.RazorAssemblyInfo.cs
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.AssemblyInfoInputs.cache
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.AssemblyInfo.cs
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.RazorTargetAssemblyInfo.cache
+C:\Users\s17090\Desktop\PRO1\PRO1\bin\Debug\netcoreapp2.2\PRO1.pdb
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.dll
+C:\Users\s17090\Desktop\PRO1\PRO1\obj\Debug\netcoreapp2.2\PRO1.pdb
